@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+*# Ignore JetBrains IDE files
+.idea/
+
+# Ignore OS files (Windows, macOS)
+Thumbs.db
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
+
