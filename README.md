@@ -31,5 +31,5 @@ SQL Queries for Snowflake: Open snowflake_project_all.sql in a SQL editor (such 
 
 Here is a screenshot of the Power BI report from the `StoreProject.pbix` file:
 
-![Power BI Report Screenshot](images/Screenshot 2025-05-01 181413.png)
+![Power BI Report Screenshot](Images/Screenshot 2025-05-01 181413.png)
 
